@@ -37,3 +37,127 @@ This is the template for the hedaer
 		<?php }
 	?>
 <body <?php body_class();?> id="<?php echo $current_page_slug;?>-page">
+
+
+<!-- TOP HEADER -->
+<section id="headerTop">
+	<div class="container">
+		<div class="banner-content">
+			<div class="contact-social">
+				
+			</div>
+			<div class="login">
+				
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- HEADER -->
+<section id="header">
+	<div class="container">
+		<div class="banner-content">
+			<div class="logo header-grid"></div>
+			<div class="nav header-grid"></div>
+			<div class="tools header-grid"></div>
+		</div>
+	</div>
+</section>
+
+<!--  BANNER -->
+<section id="banner">
+	<div class="container">
+		<div class="banner-content"></div>
+	</div>	
+</section>
+
+<!--  SUBSCRIBE -->
+<section id="subscribe-one">
+	<div class="container">
+		<div class="banner-content"></div>
+	</div>	
+</section>
+
+
+<!--  HOME 2 GRID -->
+<section id="homeGrids">
+	<div class="container">
+		<div class="content"></div>
+	</div>
+</section>
+
+<!--  ABOUT PHILIP -->
+<section id="aboutPhilip">
+	<div class="container">
+		<div class="banner-content">
+			<div class="philipImage">
+				
+			</div>
+			<div class="philipDesc">
+				
+				<div class="readmore">
+					<a href="#">Read More</a>
+				</div>	
+			</div>
+		</div>
+	</div>	
+</section>
+
+<!--  3 PILLAR CONTENT -->
+<section id="three-pillar">
+	<div class="container">
+		<div class="pillar-full-width">
+			
+		</div>
+		<div class="content">
+			<div class="pillar-grids">
+				
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<!--  TESTIMONIALS -->
+<section id="testimonials">
+	<div class="container">
+		<div class="testimonial-content"></div>
+	</div>	
+</section>
+
+
+<!--  BLOG FEATURED -->
+<section id="blogs">
+	<div class="container">
+		<div class="content">
+			<div class="blog-grid">
+				
+			</div>
+		</div>
+	</div>	
+</section>
+
+
+<!--  FOOTER -->
+<section id="footer">
+	<div class="container">
+		<div class="social">
+			<ul>
+				<li></li>
+				<li></li>
+				<li></li>
+				<li></li>
+			</ul>
+		</div>
+		<div class="footerNav">
+			
+		</div>
+		<div class="copyright">
+			<div class="content">
+				<div class="copyright-left"></div>
+				<div class="copyright-right"></div>
+				one
+			</div>
+		</div>
+	</div>	
+</section>
