@@ -156,7 +156,7 @@ This is the template for the hedaer
 			<div class="content">
 				<div class="copyright-left"></div>
 				<div class="copyright-right"></div>
-				one
+				onex  asdas
 			</div>
 		</div>
 	</div>	
