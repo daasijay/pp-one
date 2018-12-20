@@ -1,0 +1,13 @@
+.post-type-nd_theme_settings .submitdelete.deletion{display:none;}
+.post-type-nd_theme_settings #misc-publishing-actions {display: none;}
+.post-type-nd_theme_settings #post-preview, #view-post-btn{display: none;}
+.post-type-nd_theme_settings .wp-heading-inline{display: none!important;}
+.post-type-nd_theme_settings #message a{display: none!important;}
+.post-type-nd_theme_settings .acf-field.acf-field-group::before{background-color: #142a44!important;}
+.post-type-nd_theme_settings .acf-field-group .acf-label:first-child .description{color:#fff!important;}
+.post-type-nd_theme_settings .acf-field-group .acf-label:first-child{color:#fff!important;font-size:20px!important;}
+.post-type-nd_theme_settings .acf-field-group .acf-field p.description{color:#a7a7a7!important;}
+.post-type-nd_theme_settings .acf-field-group .acf-input .acf-field .acf-label label{color:#616161!important;font-size:15px!important;font-weight:400!important;}
+.post-type-nd_theme_settings #submitdiv button.handlediv{display:none;}
+.post-type-nd_theme_settings #submitdiv h2.hndle.ui-sortable-handle{display:none;}
+.post-type-nd_theme_settings #post-body-content{margin-bottom:0!important;}

@@ -1,0 +1,23 @@
+INCLUDE THIS CODE IN TO FUNCTIONS.PHP
+
+require get_template_directory() . '/theme-settings/theme-settings.php';
+
+
+
+GROUP
+=============
+
+
+$GroupSlug = get_field('Group Slug', ID);
+if($GroupSlug){
+	$field = $headerGroup['field_slug'];
+}
+echo $field;
+
+
+
+Field
+==============
+
+<?php $field = get_field('field_name', ID);?>
+
